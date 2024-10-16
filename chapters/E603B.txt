@@ -1,11 +1,11 @@
 ﻿# Original: The truth behind the absurd amount of Time Tax levied upon us was much simpler than I expected.
-Рассказчик: Правда о нелепой сумме временного налога была раскрыта намного проще, чем я ожидал.
+Рассказчик: Правда о нелепой сумме Временного налога была раскрыта намного проще, чем я ожидал.
 
 # Original: About a week ago, a large-scale, unauthorized temporal leakage phenomenon was observed at the 'Wuthering Heights' manor... which shot you up several stages in the progressive Time use Tax bracket due to the immense amount of time leak.
-Клерк 2-го уровня: Около недели назад в поместье «Грозовой перевал» был обнаружен феномен массивной временной утечки. Это и привело вас к прогрессивному увеличению налога в связи с временной утечкой.
+Клерк 2-го уровня: Около недели назад в поместье «Грозового Перевала» был обнаружен феномен массивной временной утечки. Это и привело вас к прогрессивному увеличению налога в связи с утечкой времени.
 
 # Original: A temporal leakage phenomenon?
-Грегор: Временная утечка?
+Грегор: Феномен Временной утечки?
 
 # Original: It refers to a deceleration in the flow of time within a certain physical field. In your case, it wasn't even a static deceleration field... it moved all over the manor for a good while, too. We measured about four hours' worth of time in the process.
 Клерк 2-го уровня: Подразумевается замедление времени в определённом пространстве. Но в вашем случае оно было не в одной конкретной области... а достаточно долго передвигалось по поместью. Мы подсчитали, что в результате этого прошло около четырёх часов.
@@ -14,13 +14,13 @@
 Хитклиф: …Что она, чёрт возьми, несёт?
 
 # Original: A deceleration in the flow of time within a certain... Ah.
-И Сан: Замедление времени в определённом пространстве… а.
+И Сан: Замедление времени в определённом пространстве… Ох.
 
 # Original: She must be referring to the moment during which Dante granted us celerity as we were in pursuit of that man at the manor.
-И Сан: Думаю, она имеет в виду момент, когда Данте значительно ускорил нас для погони за тем человеком.
+И Сан: Думаю, она имеет в виду момент, когда Данте значительно ускорил нас для погони за тем человеком в поместье.
 
 # Original: Impossible. The manager's ability was activated for less than thirty minutes. It is most likely that your four-hour measurement is a calculation error.
-Мерсо: Я не в силах понять. Менеджер пользовался своей способностью меньше тридцати минут. Более вероятно, что расчёт в четыре часа — неверен.
+Мерсо: Я не в силах понять. Менеджер пользовался своей способностью меньше тридцати минут. Скорее вероятно, что расчёт в четыре часа — неверен.
 
 # Original: …….
 И Сан: …….
@@ -41,7 +41,7 @@
 Дон Кихот: О-о! Посмею спросить, Мерсо, неужели что-то стало с вашей повседневной роу-тиной?
 
 # Original: We had just returned to Mephistopheles after the incident at the Wuthering Heights manor.
-Рассказчик: Мы только-только вернулись в Мефистофель, разобравшись с инцидентом в «Грозовом перевале».
+Рассказчик: Мы только-только вернулись в Мефистофель, разобравшись с инцидентом в «Грозовом Перевале».
 
 # Original: …….
 Хитклиф: …….
@@ -59,7 +59,7 @@
 Мерсо: Нам должна была поступить утренняя газета, а пришла вечерняя. Это не соотносится со временем, которое мы провели в поместье.
 
 # Original: Hm? Perchance 'twas an innocent mistake?
-Дон Кихот: Хм-м? Быть может, лишь скромная ошибка?
+Дон Кихот: Хм-м? Быть может, 'сие лишь скромная ошибка?
 
 # Original: As long as I have been a passenger of this bus, morning papers have always been delivered during designated morning hours, and evening papers have always been delivered during designated evening hours.
 Мерсо: Основываясь на всей своей пассажирской жизни в этом автобусе, могу сказать, что утренние и вечерние газеты всегда доставлялись в соответствующее для них часы.
@@ -83,22 +83,22 @@
 Данте: <…Что это?>
 
 # Original: Temporal Velocity Synchronization Device... or something like that.
-Хитклиф: Устройство синхронизации скорости времени… или чё-т типа того.
+Хитклиф: Устройство Синхронизации Скорости Времени… или чё-то типа того.
 
 # Original: I've seen an advert for it once. "A luxury solution to all your time synchronization needs. Enjoy equally leisurely hours together."... or some shite like that.
 Хитклиф: Видел как-то брошюрку с рекламой этой шняги: "Роскошное решение всех проблем с синхронизацией времени. Наслаждайтесь отдыхом в равной степени с другими".
 
 # Original: Ooho...? 'Tis quite unlike thee, Sir Heathcliff, to use so many complicated words in a sentence! Pray, shall someone explain it in plainer language?
-Дон Кихот: Охо-о…? Столь сбивающе с толку звучат ваши слова, сир Хитклиф, ибо обычно такое разнообразие вы себе не позволяете!
+Дон Кихот: Охо-о…? Столь сбивающе с толку звучат ваши слова, сэр Хитклиф, ибо обычно такое разнообразие вы себе не позволяете!
 
 # Original: ... Haaaaaah...
 Хитклиф: …Ха-а-а-а…
 
 # Original: It is an apparatus for equalizing the velocity of time for all those affected individuals under the Tee... TT4 Protocol's influence.
-И Сан: Это прибор, позволяющий нормализовать скорость времени для всех, кто находится под его эффектом.
+И Сан: Это прибор, позволяющий нормализовать скорость времени для всех, кто находится под эффектом... Протокола TT4.
 
 # Original: Aha...! Forsooth, I thought it quite odd how someone so affluent in time was moving and speaking at the same speed as the rest of us!
-Дон Кихот: Истинно ясно…! Сказать по честности, мне казалось странным, что кто-то столь обеспеченный временем двигался и разговаривал с одинаковой нам скоростью!
+Дон Кихот: Аха…! Воистину, мне казалось странным, что кто-то столь обеспеченный временем двигался и разговаривал с одинаковой нам скоростью!
 
 # Original: Hm. Then, with this information, it can be concluded that the time we have experienced within the manor was flowing at a faster rate than the world outside.
 Мерсо: Хм. С этой информацией можно заключить, что для нас внутри поместья время шло быстрее, чем в мире снаружи.
@@ -113,13 +113,13 @@
 Фауст: LCA прислала новый запрос касательно поимки Искажения. Если же объяснять в подробностях…
 
 # Original: <... So activating my ability within the TT4 Protocol caused...>
-Данте: <Значит, из-за того, что я использовал свою способность в радиусе протокола TT4…>
+Данте: <Значит, из-за того, что я использовал свою способность в радиусе Протокола TT4…>
 
 # Original: Mm... Yes, indeed. It was akin to tampering with an already-accelerated flow of time; from an outsider's point of view, it would have appeared as though more time than what was actually spent was 'leaked'.
 И Сан: М-м… Да, всё так. Это все равно, что вмешаться в уже ускоренное течение времени. С точки зрения наблюдателей со стороны, складывается ощущение, будто то время, которое не имело места быть, на самом деле "утекло".
 
 # Original: This bloke knows what he's talking about. Also, you didn't just manipulate time on a personal scale. Like I said earlier, you affected the flow of time within a physical space.
-Клерк 2-го уровня: Парень знает, о чём говорит. И ведь дело не только в индивидуальном времени. Как я говорила ранее, вы воздействовали на течение времени в пространстве.
+Клерк 2-го уровня: Парень знает, о чём говорит. И ведь дело не только в индивидуальном времени. Как я сказала ранее, вы воздействовали на течение времени в пространстве.
 
 # Original: Let me remind you that it wasn't even a static field. It moved all over that manor. Honestly, this situation is completely unprecedented.
 Клерк 2-го уровня: Даже область продолжала двигаться по всему поместью. Честно говоря, ситуация совершенно беспрецедентная.
@@ -128,16 +128,16 @@
 Хитклиф: То-о-очно... Штуковина стоила баснословных денег, так что использовали её только в особые дни. Когда было много гостей…
 
 # Original: So... the Time Tax for your inflated tax bracket, multiplied by the surtax-per-volume from the physical space covered by that temporal manipulation... yeah, no wonder it all adds up to this insane number.
-Клерк 2-го уровня: Итак... ваш увеличившийся в прогрессии временной налог, умноженный на подоходный налог за объём пространства, которое подверглось манипуляции времени... ну разумеется такая астрономическая цифра появляется.
+Клерк 2-го уровня: Итак... ваш увеличившийся в прогрессии временной налог, умноженный на подоходный налог за объём пространства, которое подверглось манипуляции времени... ну, неудивительно, что появляется такая астрономическая сумма.
 
 # Original: It's ain't like we knew something like this would happen...
 Грегор: Не то, чтобы мы знали, что это произойдёт…
 
 # Original: Well, anyway. You have two payment options to settle this Time Tax debt.
-Клерк 2-го уровня: Ну, в любом случае. У вас два варианта для оплаты этого налогового долга.
+Клерк 2-го уровня: Ну, в любом случае. У вас есть два варианта для оплаты Налоговой Временной Задолженности.
 
 # Original: Oi, options? What options...? It ain't like bags of ten billion Ahn grow from a tree, innit?
-Хитклиф: Нет, стоп, что? Какие... Какие варианты…? Ведь десять миллиардов ан не растут на деревьях…
+Хитклиф: Нет, стоп, что? Какие... Какие варианты…? Ведь десять миллиардов Ан не растут на деревьях…
 
 # Original: Option one: cash payment. Option two: time payment.
 Клерк 2-го уровня: Первый вариант — заплатить деньгами. Второй вариант — заплатить временем…
@@ -188,7 +188,7 @@
 Родион: И нас тут оставляют совсем одних...? Но разве от результата этой кутерьмы не наша судьба зависит?
 
 # Original: So... this isn't anything serious, but...
-Хон Лу: Кстати… вопросец достаточно простой, но...
+Хон Лу: Кстати… вроде ничего серьезного, но...
 
 # Original: What's Meursault doing on the gallows?
 Хон Лу: Почему Мерсо стоит на эшафоте?
@@ -206,13 +206,13 @@
 Родион: Кто… сказал тебе это сделать?
 
 # Original: I did, I did! Just trying to be helpful with you and your friends' little Time Tax problem.
-Май: Я! Я ему сказал. Просто хочу помочь с вашей проблемкой в виде временного налога.
+Май: Я! Я ему сказал. Просто хочу помочь с вашей проблемкой в виде Временного налога.
 
 # Original: <I thought all employees were supposed to be at the emergency meeting?>
 Данте: <Мне казалось, что все сотрудники должны были пойти на совещание?>
 
 # Original: Woah, a clock with legs! How fascinating. If someone were to submit you for consideration at the upcoming expo, you might even be worth a participation trophy!
-Май: Ого, часы на ножках! Какое чудо. Если кто-то бы предоставил вас на рассмотрение на предстоящей выставке, вы бы, возможно, даже получили утешительный приз за участие!
+Май: Ого, часы на ножках! Какое чудо. Если кто-то бы представил вас на рассмотрение на предстоящей выставке, вы бы, возможно, даже получили утешительный приз за участие!
 
 # Original: You remind me of the time when some hapless soul submitted a timepiece that doubled as a compass that had a rather tragic and critical design flaw: you could tell the time or find your path, but never both at once! Tell directions, or tell time? It was only one thing or the other, leaving you lost in time and stranded in the streets! That was no good, not at all. That's no better than a clock taped to a compass at the end of the day, is it?
 Май: Увидев ваши часы, мне вспомнился случай, произошедший пару лет назад. Я увидел часы, которые одновременно ещё были и компасом. И вот они даже приза за участие не получили, а знаете почему? Да потому что используя компас, не было видно времени! Можете представить себе такое? Приходится либо выискивать направление, либо смотреть на время, но никогда не получится сделать и то, и то! От такого изобретения было не больше смысла, чем от часов, приклеенных скотчем к компасу…
@@ -221,16 +221,16 @@
 Родион: Эм…
 
 # Original: Oh, right! TT5-2 Protocol is operating at an experimental capacity within this office space, so don't you forget! Anyone not synced with the Daily Standard Time might find this a little disorienting, so keep that in mind as well.
-Май: Точно! В качестве эксперимента в этом офисе действует протокол TT5-2, так что не забывайте! Любой, кто не синхронизирован со стандартным суточным временем может испытать лёгкий дискомфорт, держите это в уме.
+Май: Точно! В качестве эксперимента в этом офисе действует Протокол TT5-2, так что не забывайте! Любой, кто не синхронизирован со Стандартным Суточным Временем может испытать лёгкий дискомфорт, держите это в уме.
 
 # Original: Whu-what...?
 Измаил: Что… что он сказал…?
 
 # Original: Now that's a look of someone who has never once heard of the TT5-2 Protocol, eh? TT5-2 Protocol, as its name suggests, is an invention to address the temporal efficiency problem present in the TT4 Protocol. It's doing test-runs in only a few select T Corp. offices, so if you do ever feel the urge to leave your impressions of this new shiny thing, feel free to jot down a few words on that bulletin— wait a minute, who wrote that 3-star review?
-Май: Никогда раньше не слышали о протоколе TT5-2? Что ж, как можно понять из названия, протокол TT5-2 был разработан, чтобы решить проблему временной эффективности в сравнении с протоколом TT4. Тест-раны проводятся всего в парочке офисов корпорации T, так что если захотите оставить отзыв о нашей новинке — прошу написать его на вон той доске объяв— сто-о-оп, это кто там поставил нам три звезды?
+Май: Никогда раньше не слышали о Протоколе TT5-2? Что ж, как можно понять из названия, Протокол TT5-2 был разработан, чтобы решить проблему временной эффективности в сравнении с Протоколом TT4. Пробные тестирования проводятся всего в парочке офисов Корпорации T, так что если захотите оставить отзыв о нашей новинке — прошу написать его на вон той доске объяв— сто-о-оп, это кто там поставил нам три звезды?
 
 # Original: The man, whom we presumed to be a T Corp. Staff, seemed very adept at holding a one-sided conversation with zero external input.
-Рассказчик: Этот предполагаемый сотрудник корпорации T, кажется, крайне умело ведёт односторонние диалоги, не нуждаясь ни в чьих ответах.
+Рассказчик: Этот предполагаемый сотрудник Корпорации T, кажется, крайне умело ведёт односторонние диалоги, не нуждаясь ни в чьих ответах.
 
 # Original: Not that any of us could keep up with how fast he was speaking, anyway.
 Рассказчик: Хотя, в любом случае, никто и не мог поспеть за скоростью его речи.
@@ -248,10 +248,10 @@
 Рассказчик: Верёвка, прикреплённая к механизму, затянулась на шее Мерсо.
 
 # Original: I… is this what it means to pay our Time Tax with time? Getting hanged from the gallows…?
-Синклер: В-вот что значит оплата временного налога временем? Быть повешанным на виселице…?
+Синклер: В-вот что значит оплата Временного налога своим временем? Быть повешанным на виселице…?
 
 # Original: Please call it by its precise and given name: Temporal Scale Gallows. It measures the exact amount of time you owe, and sucks that time right out of you. That wasn’t the original name, mind you; there was simply too much hubbub and hullabaloo about its 'excessively long name', which was at approximately fifty-eight words. Or letters.
-Май: Прошу называть вещи своими именами. Это времяизмеряющая виселица. Она отмеряет точное количество задолженного времени и извлекает его. И чтоб вы знали, это не оригинальное название. Оригинальное вызвало слишком много гомона и шума, а всё из-за того, что пятьдесят восемь слов по мнению большинства оказалось „ну слишком длинным названием“ для изобретения.
+Май: Прошу называть вещи своими именами: Измеряющая Время Виселица. Она отмеряет точное количество задолженного времени и извлекает его. И чтоб вы знали, это не оригинальное название. Оригинальное вызвало слишком много гомона и шума, а всё из-за того, что пятьдесят восемь слов по мнению большинства оказалось „ну слишком длинным названием“ для изобретения.
 
 # Original: <… Can someone ask him what’ll happen to Meursault?>
 Данте: <Кто-нибудь, спросите его, что произойдёт с Мерсо…>
@@ -269,7 +269,7 @@
 И Сан: Сказанное „хотя“ в такой манере… зачастую предшествует большому несчастью, что нависает над нами…
 
 # Original: ... I'm not so sure as to what might happen, actually. I suppose it'll suck ten billion Ahn's worth of time out of your friend?
-Май: ...Я на самом деле и сам не знаю, что произойдёт. Наверное, из вашего друга будет изъято времени на десять миллиардов ан?
+Май: ...Я на самом деле и сам не знаю, что произойдёт. Наверное, из вашего друга будет изъято времени на десять миллиардов Ан?
 
 # Original: Stop being obtuse. What is that even supposed to mean?
 Отис: Хватит размытых формулировок. Что всё это значит?
@@ -281,27 +281,27 @@
 Дон Кихот: Эа!
 
 # Original: Well, not exactly. Let me tell you about T Corp.'s particularly generous system called the four-hour daily minimum time guarantee policy! How generous, hm? Even when worst comes to worst comes to worst, every citizen is entitled to the right to enjoy a minimum of four-hour days. According to the T Corp. Public Welfare Council, four hours is the absolute minimum number of hours in a day to guarantee human survival. 'Survive' being the key word here.
-Май: Ну не совсем. Позвольте рассказать вам о весьма щедрой системе, именуемой политикой гарантии четырёхчасового минимума! Обнадёживающе же, м-м? Даже в самый тёмный час своей жизни все граждане имеют право на четырёхчасовой день. Согласно Комитету общественного благосостояния корпорации T, четыре часа — это абсолютный минимум, необходимый человеку для выживания.
+Май: Ну, не совсем. Позвольте рассказать вам о весьма щедрой системе Корпорации Т, именуемой политикой гарантии четырёхчасового минимума! Как щедро, м-м? Даже в самый тёмный час своей жизни все граждане имеют право на четырёхчасовой день. Согласно Комитету Общественного Благосостояния Корпорации T, четыре часа — это абсолютный минимум, необходимый человеку для выживания. 'Выживание' тут ключевое слово, кстате.
 
 # Original: <…….>
 Данте: <…….>
 
 # Original: My, my, my! Sucking ten billion and forty million Ahn’s worth of time from your friend was too much, I suppose. Look, it says “measurement error”. That rarely ever happens.
-Май: Божечки-божечки… Похоже, извлечь из вашего друга десять миллиардов и сорок миллионов ан было непосильной задачей. Видите надпись? Написано “ошибка измерения”. Такое едва ли когда-то происходило.
+Май: Божечки-божечки… Похоже, извлечь из вашего друга десять миллиардов и сорок миллионов Ан было непосильной задачей. Видите надпись? Написано “ошибка измерения”. Такое едва ли когда-то происходило.
 
 # Original: ... Wait, you pulled the lever when you didn't even know what was going to happen? Just out of curiosity?
 Измаил: …Стоп, то есть вы хотите сказать, что не знали, что произойдёт, и всё это было из любопытства?
 
 # Original: Hm? Of course! Ten billion Ahn of Time Tax debt is a historically unprecedented amount of debt, so I had to see what would happen. You could land first place in a lottery and you still wouldn't even come close to making ten billion Ahn, and that's before taxes. I'd say you all belong in a museum of history, if I'm being honest!
-Май: Хм? Ну конечно же. Десять миллиардов ан — самая высокая сумма долга, которую я когда-либо видел, так что не мог упустить возможности посмотреть, что произойдёт. Можно хоть главный приз в лотерее выиграть, а это всё равно и близко не будет к десяти миллиардам ан, даже без вычета налогов. Должен сказать, ваше существование уже достойно того, чтобы вас выставить в качестве экспонатов в историческом музее!
+Май: Хм? Ну конечно же! Десять миллиардов Ан — самая высокая сумма долга, которую я когда-либо видел, так что не мог упустить возможности посмотреть, что произойдёт. Можно хоть главный приз в лотерее выиграть, а это всё равно и близко не будет к десяти миллиардам Ан, даже без вычета налогов. Должен сказать, ваше существование уже достойно того, чтобы выставить вас в качестве экспонатов в историческом музее!
 
 # Original: Besides, I haven't seen anyone with more than 150 hours in Time Tax debt willingly step up the gallows before. Anyone beyond that usually chooses to run and digs themselves into an even deeper debt hole.
 # The point is, I scarcely expected someone in a ten billion Ahn Time Tax hole to just walk up there like that!
-Май: Ко всему прочему, ни разу я не видел, чтобы кто-то, на ком висит долг выше ста пятидесяти часов по своей воле заходил на эшафот. Обычно с такими долгами люди бросаются наутёк и загоняют себя в ещё большие долги.
-К чему это я, в общем, я совсем не ожидал, что человек с временным налогом в десять миллиардов ан так спокойно пойдёт туда!
+Май: Ко всему прочему, ни разу я не видел, чтобы кто-то, на ком висит Временная Задолженность свыше 150 часов по своей воле заходил на эшафот. Обычно с такими долгами люди бросаются наутёк и загоняют себя в ещё большие долги.
+К чему это я, в общем, я совсем не ожидал, что человек с Временным налогом в десять миллиардов Ан так спокойно пойдёт туда!
 
 # Original: <What is wrong with this guy?>
-Данте: <Что не так с этим человеком…>
+Данте: <Что не так с этим парнем?…>
 
 # Original: Awaken, Meursault! Prithee, surrender not to such machinery!
 Дон Кихот: Пробудись, Мерсо! Не смей сдаваться пред ликом этой машинерии!
@@ -313,7 +313,7 @@
 Дон Кихот: Хоаргх?! В-вы в порядке?
 
 # Original: Mm. I am all right.
-Мерсо: М-м. Всё так.
+Мерсо: М-м. Я в полном порядке.
 
 # Original: Why uh, why don't ya get down from the gallows for now, Meursault?
 Грегор: Э-э, давай-ка, Мерсо, ты, ну… спустишься оттуда для начала, а?
