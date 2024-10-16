@@ -20,10 +20,10 @@
 Данте: <Ну хорошо. Дон Кихот… Что случилось?>
 
 # Original: Hooah... Manager Esquire, dost thou know that the City's upstart companies, such as one Limbus Company, must always pay close heed to the ever-changing world around us?
-Дон Кихот: Хо-о… Менеджер, милорд, известно ль вам, что начинающим компаниям, таким как «Лимбус», нужно всегда зреть востро касаемо постоянно меняющегося вокруг мира?
+Дон Кихот: Хо-о… Сэр Менеджер, известно ль вам, что начинающим компаниям, таким как «Лимбус», нужно всегда зреть востро касаемо постоянно меняющегося вокруг мира?
 
 # Original: Hie thee hither! Read thy newspapers, Manager Esquire, and do keep thyself up-to-date on the events of the City! As Meursault and I, Don Quixote, do ere every morrow!
-Дон Кихот: Внемлите же мне! Вовлеките себя в чтение газет каждым утром, Менеджер, милорд, дабы быть в курсе нынешних событий, а?! Будете, как Мерсо и я, а?!
+Дон Кихот: Внемлите же мне! Вовлеките себя в чтение газет каждым утром, Сэр Менеджер, дабы быть в курсе нынешних событий, а?! Будете, как Мерсо и я, а?!
 
 # Original: Bud, just go along with it, why don't ya? I'm pretty sure she's talking about Meursault and one of his morning routines. Y'know, the... the one with the newspapers?
 Грегор: Дружище, просто подыграй ей, а? Думаю, она говорит о привычке Мерсо читать по утрам газету.
@@ -35,7 +35,7 @@
 Грегор: Ага, именно она. Похоже, на неё она произвела впечатление. Ну ничего, через недельку или около того отойдёт.
 
 # Original: Hearken unto me! Art thou paying attention?!?!
-Дон Кихот: Вопрошаю вас, вы услышали мою молву?!?!
+Дон Кихот: Вопрошаю вас, услышали ли вы мою молву?!?!
 
 # Original: <Uh... yep, totally. So what's new? What, did an article mention us or something?>
 Данте: <А-а… да, конечно. Что новенького? Не о нас же там пишут?>
@@ -56,10 +56,10 @@
 Рассказчик: Постепенно на громогласные голоса Роди и Дон Кихот, которые были идеальны для привлечения внимания, собрались остальные грешники, заинтересовавшиеся произошедшим.
 
 # Original: Ahem, ahem… A Dramatic Conclusion to the Mysterious Disappearances at T Corp.!
-Дон Кихот: Так, так… Драматическая развязка таинственных исчезновений в корпорации T!
+Дон Кихот: Так, так… Драматическая развязка таинственных исчезновений в Корпорации T!
 
 # Original: SHOCKING! The perpetrators to this mysterious case has been revealed to be none other than the prestigious Edgar Family, appalling the general public—
-Дон Кихот: Виновником было объявлено семейство Эдгар, что шокировало общественность…
+Дон Кихот: ШОК! Виновниками были объявлены семейство Эдгар, что потрясло общественность…
 
 # Original: …….
 Хитклиф: …….
@@ -68,7 +68,7 @@
 Данте: <Д-давайте не будем останавливаться на этой части.>
 
 # Original: Khm... With small assistance from some wandering bystanders who happened to be lost in the area, and with the most admirable heroics of the T Corp. Class 3 Collection Staff on the scene—
-Дон Кихот: Кхм… Инцидент был разрешён крайне достопочтенными коллекторами третьего уровня корпорации T с небольшой поддержкой прохожих, что тогда блуждали неподалёку…
+Дон Кихот: Кхм… Инцидент был разрешён крайне достопочтенными Коллекторами Третьего Уровня Корпорации T с небольшой поддержкой прохожих, что тогда блуждали неподалёку…
 
 # Original: Mm, 'wandering bystanders', is it...? Perchance that particular denomination refers to us?
 И Сан: М-м, под упомянутыми „прохожими“, полагаю… Имелись в виду мы?
@@ -80,10 +80,10 @@
 Синклер: Даже название компании не упомянули…
 
 # Original: Aw, come on! Those Time Collectors weren't even there!
-Родион: Ой, да ну! Эти коллекторы времени… Да их там даже не было!
+Родион: Ой, да ну! Эти Коллекторы Времени… Да их там даже не было!
 
 # Original: This is within the expected range of behavior for the news media.
-Мерсо: Весьма ожидаемое поведение для СМИ.
+Мерсо: Весьма ожидаемое поведение для новостных медиа.
 
 # Original: W-well, there may be those who seek to interview us after reading this very article, mayhaps...?
 Дон Кихот: Н-ну... кто знает! Быть может, кто-нибудь, прочитав сию статью, явится взять интервью…
@@ -116,13 +116,13 @@
 Родион: Ого, она действительно пришла, чтобы взять интервью?
 
 # Original: <No way... Don Quixote wasn't just losing her mind at nothing...?>
-Данте: <И Дон Кихот не устраивала сыр-бор из-за ничего…?>
+Данте: <Не может быть...Дон Кихот не устраивала сыр-бор из-за ничего…?>
 
 # Original: I was not told that any... interview... would be taking place...
 Фауст: Интервью… Мне ничего не говорили о том, что кто-то будет брать интервью…
 
 # Original: My, where'd Verg go at a time like this~? Now, where'd I put that leftover hair gel from Heath's makeover...?
-Родион: Ну и куда делся Вер в такой момент~ Так, куда я там убрала остатки геля для волос после преображения Хита…?
+Родион: Ну и куда делся Верг в такой момент~ Так, куда я там убрала остатки геля для волос после преображения Хита…?
 
 # Original: Ahem, ahem... Thou may commence.
 Дон Кихот: Кхэм, кхэм… Побуждаю вас начать.
@@ -147,7 +147,7 @@ Will you be making your tax payment in installments?
 Рассказчик: Похоже, у нас определённо произошло недопонимание…
 
 # Original: We are Tax Collectors from T Corp.'s Time Collections Agency, currently on a mission to collect your overdue Time Tax.
-Сотрудник Отдела Сбора Времени: Мы — коллекторы из агентства корпорации T по сбору временных налогов. В данный момент исполняем миссию по взиманию с вас просроченного временного налога.
+Сотрудник Отдела Сбора Времени: Мы — Коллекторы из агентства Корпорации T по сбору временных налогов. В данный момент исполняем миссию по взиманию с вас просроченного временного налога.
 
 # Original: Those ilks are never bringers of good tidings, indeed...
 И Сан: Ожидаемо… Такие гости никогда не приносят добрых вестей…
@@ -156,7 +156,7 @@ Will you be making your tax payment in installments?
 Измаил: Временной налог? Но ведь этого не может быть…
 
 # Original: We already paid our Time Tax in full when we went through the T Corp. Nest immigration process. Vergilius said—
-Измаил: Мы же уже оплатили в полном объёме временной налог, когда проходили иммиграционный процесс корпорации T. Вергилий ещё сказал…
+Измаил: Мы же уже оплатили в полном объёме временной налог, когда проходили иммиграционный процесс Корпорации T. Вергилий ещё сказал…
 
 # Original: Few days ago, aboard Mephistopheles...
 Рассказчик: Пару дней назад, в Мефистофеле...
@@ -165,22 +165,22 @@ Will you be making your tax payment in installments?
 Измаил: Вы уверены, что у нас не будет проблем, если не у каждого будут с собой часы?
 
 # Original: You probably know this already, but in T Corp….
-Измаил: А то ведь в корпорации T…
+Измаил: А то ведь в Корпорации T…
 
 # Original: ... everyone must carry a timepiece, yes. I know the rules.
-Вергилий: ...Одним из привил является обладание часами, да. Мне это прекрасно известно.
+Вергилий: ...Одним из правил является обладание часами, да. Мне это прекрасно известно.
 
 # Original: But for every rule, there's always room for an alternative that offers a bit more flexibility. Of course, I don't suppose it's listed anywhere on that pamphlet.
 Вергилий: Но на каждое правило найдётся своя альтернатива, что предоставит больше гибкости. Конечно же в брошюре об этом вряд ли упоминалось…
 
 # Original: Outsiders seeking a short-term stay at T Corp. can pay the appropriate Time Tax for the length of their stay to be exempt from the relevant obligations, instead of going out of their way to abide by T Corp.'s rules.
-Вергилий: Желающие остаться в корпорации T на короткий срок могут оплатить подобающую сумму временного налога и будут освобождены от обязательного ношения часов.
+Вергилий: Желающие остаться в Корпорации T на короткий срок могут оплатить соответствующую сумму временного налога и будут освобождены от обязательного ношения часов.
 
 # Original: As you may have expected, anyone born outside District 20 must go through numerous hoops before they can be issued a timepiece.
-Вергилий: Тем же, кто не родом из двадцатого Района, приходится несколько раз прыгать выше головы, чтобы приобрести часы.
+Вергилий: Тем же, кто не родом из 20-го Района, приходится несколько раз прыгать выше головы, чтобы приобрести часы.
 
 # Original: So we elected to pay thirty days' worth of Time Tax on the spot before entering T Corp.'s borders.
-Вергилий: Поэтому мы решили перед въездом на территорию корпорации T оплатить временной налог на тридцать дней.
+Вергилий: Поэтому мы решили перед въездом на территорию Корпорации T оплатить временной налог на тридцать дней.
 
 # Original: Impressive... It can't have been cheap.
 Отис: Хо-о… Полагаю, сумма была приличной.
@@ -225,7 +225,7 @@ Will you be making your tax payment in installments?
 Сотрудник Отдела Сбора Времени: Сумма временного налога, которую вы должны оплатить…
 
 # Original: ... 10,040,000,000 Ahn behind in Time Tax payments.
-Сотрудник Отдела Сбора Времени: ...в целом десять миллиардов и сорок миллионов ан.
+Сотрудник Отдела Сбора Времени: ...в целом ваш Временной налог составляет 10,040,000,000 Ан.
 
 # Original: <WHAT?!>
 Данте: <СКОЛЬКО?!>
@@ -237,7 +237,7 @@ Will you be making your tax payment in installments?
 Хон Лу: Если нам нужна такая большая сумма… Думаю, нам стоит заскочить ко мне домой!
 
 # Original: What other options do we have, if we don't... I mean, if we can't pay the tax?
-Синклер: …А что, если не платить… в смысле, если мы не можем заплатить… что тогда будет?
+Синклер: …А что, если не платить… в смысле, если мы не сможем заплатить… что тогда будет?
 
 # Original: 'Can't pay the tax' is not an option. Your only options are the following: make your payment with time or money. With interest, of course.
 Сотрудник Отдела Сбора Времени: Нельзя просто не платить. Вы либо платите деньгами, либо временем. По своему усмотрению, конечно.
@@ -255,13 +255,13 @@ Will you be making your tax payment in installments?
 И Сан: Хм…
 
 # Original: I have not once failed to make my payments during my residency at this Nest...
-И Сан: Никогда мне не доводилось пропускать оплату своего пребывания в гнезде корпорации T…
+И Сан: Никогда мне не доводилось пропускать оплату своего пребывания в Гнезде Корпорации T…
 
 # Original: Thus, I know not what transpires on an occasion in which one fails to pay the Time Tax.
 И Сан: Посему не могу сказать, что происходит, когда кто-то не в силах оплатить временной налог.
 
 # Original: I've never been involved in messy businesses like taxes at the manor, either. And in my Backstreets days, Boss dealt with complicated shite like that for the rest of us. I did see a few poor sods gettin' dragged away 'cuz they failed to cough it up, though.
-Хитклиф: Меня в поместье никогда такие сурьёзные дела, как налоги, не касались… Ну а когда жил в Переулках, то со всей белибердой разбирался Босс. Хотя я видел пару бедолаг, которых утаскивали куда-то из-за того, что те заплатить не могли…
+Хитклиф: Меня в поместье никогда такие серьёзные дела, как налоги, не касались… Ну а когда жил в Подворотнях, то со всей белибердой разбирался Босс. Хотя я видел пару бедолаг, которых утаскивали куда-то из-за того, что те заплатить не смогли…
 
 # Original: <Well, then...>
 Данте: <Вот оно как…>
@@ -273,7 +273,7 @@ Will you be making your tax payment in installments?
 Отис: Это совершенно необоснованно. По какому методу расчёта вышла такая абсурдная сумма?
 
 # Original: Tax calculations in T Corp. are always exceptionally reasonable.
-Сотрудник Отдела Сбора Времени: Расчёт налогов в корпорации T всегда обоснован.
+Сотрудник Отдела Сбора Времени: Расчёт налогов в Корпорации T всегда обоснован.
 
 # Original: The clock's ticking. Would I be correct to assume that you lack both the capability and the will to make your fair payments?
 Сотрудник Отдела Сбора Времени: Мы зря теряем время. Правильно ли я полагаю, что вы не можете найти ни возможности, ни желания платить?
@@ -285,13 +285,13 @@ Will you be making your tax payment in installments?
 И Сан: Твой выбор слов в этой ситуации... оставляет желать лучшего…
 
 # Original: Cry and whine all you want about not wanting to escalate things when you've got ten billion Ahn in your pockets. I won't recognize your opinion as anything of worth otherwise.
-Отис: Можете ныть о ситуации сколько хотите только при условии, если у вас в кармане завалялись десять миллиардов ан. В противном случае, ваше мнение не учитывается.
+Отис: Можете ныть о ситуации сколько хотите только при условии, если у вас в кармане завалялись десять миллиардов Ан. В противном случае, ваше мнение не учитывается.
 
 # Original: No? Then shut up and stay out of our way while we deal with this obstacle that dares to stand in our path.
 Отис: Нет таких? Тогда замолкните и расправимся с теми, кто смеет стоять у нас на пути.
 
 # Original: How exciting. A ten-billion-Ahn death...
-Рёшу: Вот ведь потеха. Смерть ценой в десять миллиардов ан…
+Рёшу: Вот ведь потеха. Смерть ценой в десять миллиардов Ан…
 
 # Original: ... Ten-billion-and-forty-million Ahn, to be exact.
 Сотрудник Отдела Сбора Времени: …Десять миллиардов и сорок миллионов, если быть точнее.
