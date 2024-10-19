@@ -5,49 +5,49 @@
 Рассказчик: ...мы вышли к обветшалому зданию, которое, судя по всему, было их убежищем.
 
 # Original: You've finally managed to track us down, haven't you... Filthy watch chains of T Corp.! And you... you clock!
-Детектив: И вот вы наконец-то выследили нас, гнусные часовые цепочки корпорации T и… какие-то часы.
+Детектив: И вот вы наконец-то выследили нас... Гнусные часовые цепочки Корпорации T! И ты… какие-то часы!
 
 # Original: <"'You clock", he says...>
 Данте: <„Какие-то часы“, — говорит он…>
 
 # Original: It's only elementary. Because I am... an ace detective.
-Родион: Ну разумеется, ведь я… великий детектив.
+Родион: Ну разумеется, ведь я… первоклассный детектив.
 
 # Original: Rodya exclaimed triumphantly as she flicked her hair back, but I sensed the smallest hint of uncertainty in her voice.
 Рассказчик: Сказала Родя с уверенностью, откинув волосы назад, но в её голосе почувствовалась тень сомнения.
 
 # Original: Yep, we're all ace detectives.
-Хон Лу: Ага, мы все великие детективы.
+Хон Лу: Ага, мы все первоклассные детективы.
 
 # Original: Tsk... I'll admit, we shouldn't have let you track us down. ... But you don't look too strong.
-Детектив: Ошибка с нашей стороны, что мы позволили вам выследить нас, но вы не выглядите особо сильными.
+Детектив: Тск... Признаю было ошибкой с нашей стороны, позволить вам выследить нас, но вы не выглядите особо сильными.
 
 # Original: It is a foolish move to fight a lion in his den... I hope you've prepared yourselves.
-Детектив: Весьма глупо вступать в бой на территории врага… Готовы к этому хоть?
+Детектив: Весьма глупо вступать в бой на территории врага… Надеюсь вы хоть готовы к этому?
 
 # Original: Don'tcha worry about our butts. We've got a Class 5 Staff with us, y'know!
-Родион: За нас не беспокойся, на нашей стороне сотрудник пятого уровня, правильно говорю?
+Родион: За нас не беспокойся, на нашей стороне сотрудник Пятого Уровня, правильно говорю?
 
 # Original: Hm, I can deduce a few things about you. One. That man's outfit... that aloof look on his face... I see. It's likely that you're not lying that he really is a Class 5 Staff.
-Детектив: Эта одежда, расслабленное выражение лица… Да, вижу, весьма вероятно, что с вами действительно сотрудник пятого уровня…
+Детектив: Хм, моя дедукция говорит о вас. Во-первых. Эта одежда, расслабленное выражение лица… Да, вижу, весьма вероятно, что с вами действительно сотрудник Пятого Уровня…
 
 # Original: Two. You are absolutely shameless for bringing a Class 5 watch chain to a run-down hideout like this.
-Детектив: Сдаётся мне, у вас нет совести, раз вы решили привести часовую цепочку пятого уровня в наше захудалое прибежище.
+Детектив: Во-вторых. Сдаётся мне, у вас нет совести, раз вы решили привести часовую цепочку Пятого Уровня в наше захудалое прибежище.
 
 # Original: Why does this have anything to do with shame...?
-Родион: При чём тут совесть…?
+Родион: При чём тут вообще совесть…?
 
 # Original: I don't know about shame, but this place sure is run-down.
 Хон Лу: Про совесть не знаю, но местечко и правда захудалое.
 
 # Original: Right, how about this? I'll sit this one out just for the sake of fairness.
-Май: А-а, давайте поступим по-честному. Не буду вмешиваться.
+Май: А-а, как насчет этого? Давайте поступим по-честному, я буду сидеть тут. Не буду вмешиваться.
 
 # Original: It'll be like cheating if I were to take part in this fight, yeah?
-Май: Было бы жульничеством, прими я в этом сражении участие.
+Май: Было бы жульничеством, прими я участие в этом сражении, да?
 
 # Original: That is... a fair proposal. Fine, I accept your offer.
-Детектив: Достаточно… справедливое предложение. Я его приму.
+Детектив: Достаточно… справедливое предложение. Ладно. Я его приму.
 
 # Original: <Do we not get a say in any of this...?>
 Данте: <А наше мнение не спросят…?>
