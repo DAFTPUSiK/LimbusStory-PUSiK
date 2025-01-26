@@ -5,19 +5,19 @@
 Измаил: Ого. Этот... этот звук только что... я и не знала, что человеческое тело может издавать такие звуки.
 
 # Original: Hm? Ooh… I was just doing some stretches. Can't seem to do 'em without making these noises nowadays.
-Грегор: А? О-о... Да я просто потягивался. В последнее время без этих звуков никак не получается.
+Грегор: А? О-о... Да я просто делал небольшую растяжку. В последнее время без этих звуков никак не получается.
 
 # Original: Huh? What do you mean you... can't...?
-Синклер: А? Что значит не получается...?
+Синклер: А? Что значит... не получается...?
 
 # Original: That right there’s the creakin’ sound of time's ravages, Sinc. Oof… I know Dante’s been turning the clock to rewind our time, but I feel like my joints are starting to grate.
-Родион: Это, Синк, скрип времени — вот что это такое. Уф... Я знаю, что Данте откатывает часы назад, но у меня такое чувство, что суставы начинают скрипеть.
+Родион: Это, Синк, скрипучий звук разрушительного воздействия времени — вот что это такое. Уф... Я знаю, что Данте поворачивает часы, чтобы отмомать наше время назад, но у меня такое чувство, что мои суставы начинают ныть.
 
 # Original: Hmm, I know what you mean. I definitely don’t feel as spry as I used to. Maybe the pain from repeatedly dying and reviving takes a toll after all...
 Измаил: Хм, понимаю, о чём ты. Я определённо уже не чувствую себя такой бодрой, как раньше. Может, боль от постоянных смертей и воскрешений всё-таки берёт своё...
 
 # Original: <Yeah, dying sure is a pain…>
-Данте: <Да уж, умирать — то ещё удовольствие...>
+Данте: <Да уж, умирать, конечно — та ещё боль...>
 
 # Original: That's when Hong Lu flippantly threw out an innocent comment amidst the complaining Sinners.
 Рассказчик: И тут Хон Лу как бы между делом бросил невинное замечание среди жалующихся Грешников.
@@ -44,7 +44,7 @@
 Грегор: Эм... Я... думал, мы собирались подойти к этой теме постепенно, но ты... просто взял и снёс все преграды, да?
 
 # Original: Aha... I must've made things awkward. I didn’t realize everyone was so sensitive about their age...
-Хон Лу: Ага... Похоже, я создал неловкую ситуацию. Не знал, что все так чувствительны к теме возраста...
+Хон Лу: Ага... Должно быть, я создал неловкую ситуацию. Не знал, что все так щепетильны к теме своего возраста...
 
 # Original: That’s, uh— ‘Tis naught to concern thyself with! Be not so—
 Дон Кихот: Сие есть— То есть не стоит об этом печалиться! Не будь столь—
@@ -62,16 +62,16 @@
 Синклер: Н-ну, может быть, это твой шанс отомстить ему за грубое обращение? Дон Кихот, я уверен, ты можешь—
 
 # Original: Sinc… I’ve never seen your eyes sparkle like that before…
-Родион: Синк... Я никогда не видела, чтобы твои глаза так сверкали...
+Родион: Синк... Я раньше никогда не видела, чтобы твои глаза так сверкали...
 
 # Original: I… am quite fond of the current temperament of our company. Unless young Heathcliff here suddenly morphs into a villainous scoundrel, I have nary a wish to exact violence upon him, and…
-Дон Кихот: Я... весьма довольна нынешним расположением духа наших компаньонов. Покуда юный Хитклиф не обратится в злодея-негодяя, у меня нет ни малейшего желания применять к нему насилие, и...
+Дон Кихот: Я... весьма довольна нынешним темпераментом нашей компании. Покуда юный Хитклиф не обратится в злодея-негодяя, у меня нет ни малейшего желания применять к нему насилие, и...
 
 # Original: Right, now that that’s over with… let’s all shut up and keep the chinwag to a minimum, yeah?
 Хитклиф: Ладно, теперь, когда с этим покончено... давайте все заткнёмся и сведём болтовню к минимуму, а?
 
 # Original: Seems plenty villainously dickish to me…
-Измаил: По-моему, он ведёт себя достаточно злодейски...
+Измаил: По-моему, он ведёт себя достаточно по-злодейски...
 
 # Original: Anyways… am I the only one thinking that it’s about time we got the “thing”?
 Грегор: Так вот... мне одному кажется, что пора бы нам заняться той самой "штукой"?
@@ -80,19 +80,19 @@
 Хон Лу: "Штукой"?
 
 # Original: Well, y’know. The “thing” that we tried a while ago, but didn’t get to enjoy due to some… unforeseen issues.
-Грегор: Ну, знаете. Той "штукой", которую мы пытались сделать какое-то время назад, но не смогли насладиться из-за некоторых... непредвиденных обстоятельств.
+Грегор: Ну, вы знаете. Той "штукой", которой мы пытались заняться какое-то время назад, но не смогли насладиться из-за некоторых... непредвиденных обстоятельств.
 
 # Original: Deathmatch.
-Рёшу: Смертельная битва.
+Рёшу: Бой насмерть.
 
 # Original: … Not that. Don’t you remember? We even played volleyball by that big body of water.
-Грегор: ...Не это. Разве не помнишь? Мы даже в волейбол играли у того большого водоёма.
+Грегор: ...Не это. Разве не помните? Мы даже в волейбол играли у того большого водоёма.
 
 # Original: Contextual clues suggest that he is making a request for a vacation.
-Мерсо: Контекстуальные подсказки указывают на то, что он делает запрос на отпуск.
+Мерсо: Контекстуальные подсказки указывают на то, что он требует запрос на отпуск.
 
 # Original: Yep, absolutely yep. Let’s all go to a spa or something, relax, get massages to loosen up our muscles some… please?
-Родион: Да, абсолютно да. Давайте все сходим в спа или что-то такое, расслабимся, сделаем массаж, чтобы размять мышцы... пожалуйста?
+Родион: Да, абсолютно да. Давайте все сходим в "спа" или что-то такое, расслабимся, сделаем массаж, чтобы расслабить мышцы... пожалуйста?
 
 # Original: You still have expectations for our employers?
 Измаил: Ты всё ещё чего-то ждёшь от нашего начальства?
@@ -107,7 +107,7 @@
 И Сан: На протяжении многих недель после того "массажа" моё тело было лишено каких-либо сенсорных ощущений...
 
 # Original: Thus understood it was, the philosophy of Meursault’s physical therapy—that the most infallible methodology of convalescence from pain is to remove any and all stimulation, including that of pain...
-И Сан: Так была постигнута философия физиотерапии Мерсо — что самая безошибочная методология выздоровления от боли есть устранение любых и всяческих раздражителей, включая саму боль...
+И Сан: Так мною была постигнута философия физиотерапии Мерсо — что самая безошибочная методология выздоровления от боли есть устранение любых и всяческих ощущений, включая саму боль...
 
 # Original: …….
 Фауст: …….
@@ -131,7 +131,7 @@
 Синклер: ...Почему все вдруг стали такими серьёзными?
 
 # Original: Rodion’s observation is correct. While turning the clock does indeed turn the time, a certain degree of exacerbating fatigue cannot be alleviated.
-Фауст: Наблюдение Родион верно. Хотя поворот часов действительно поворачивает время, определённая степень нарастающей усталости не может быть устранена.
+Фауст: Наблюдение Родион верно. Хотя оборот часов действительно поворачивает время, определённая степень нарастающей усталости не может быть устранена.
 
 # Original: This necessitates that we employ a certain measure to verify the status of each Sinner.
 Фауст: Это требует применения определённых мер для проверки состояния каждого Грешника.
@@ -161,7 +161,7 @@
 Фауст: Но это постоянно откладывалось из-за нескольких ограничивающих обстоятельств с нашей стороны.
 
 # Original: They’ve been obnoxiously hounding us for quite some time. I was starting to get tired of explaining our absence.
-Вергилий: Они уже довольно давно надоедливо преследуют нас по этому поводу. Я начал уставать объяснять причины нашего отсутствия.
+Вергилий: Они уже довольно давно надоедливо преследуют нас по этому поводу. Я уже начал уставать объяснять причины нашего отсутствия.
 
 # Original: Check-up? What check-up?
 Хитклиф: Осмотр? Какой ещё осмотр?
@@ -176,13 +176,13 @@
 Данте: <Я сам никогда с этим не сталкивался, но... похоже, они просто проверяют, как у нас со здоровьем.>
 
 # Original: I turned around, getting ready to say “right, Ishmael?”...
-Рассказчик: Я повернулся, готовясь сказать "верно, Измаил?"...
+Рассказчик: Я обернулся назад, готовясь сказать "верно, Измаил?"...
 
 # Original: …….
 Измаил: …….
 
 # Original: … only to come face-to-face with Ishmael’s shocked expression, frozen onto her face.
-Рассказчик: ...только чтобы увидеть застывшее на её лице потрясённое выражение.
+Рассказчик: ...только чтобы встретиться лицом к лицу с потрясенным выражением Измаила, застывшим на ее лице.
 
 # Original: Well, this is unexpected. I thought Ishmael, with her worldly experiences, would leap onto this opportunity to lecture us all about how things worked outside Limbus Company…
 Рассказчик: Что ж, это неожиданно. Я думал, что Измаил с её житейским опытом воспользуется этой возможностью, чтобы прочитать нам лекцию о том, как всё устроено за пределами Компании Лимбус...
@@ -191,7 +191,7 @@
 Измаил: П-плановые осмотры... это...
 
 # Original: Ohh, you’re gearin’ up to explain what it is! Coolio.
-Родион: О-о, ты собираешься объяснить, что это такое! Класс.
+Родион: О-о, ты собираешься объяснить, что это такое! Крутяк.
 
 # Original: Ya got thirty seconds to wrap it up! Ready, set, go!
 Родион: У тебя тридцать секунд, чтобы уложиться! На старт, внимание, марш!
@@ -209,7 +209,7 @@
 Вергилий: А, я слышал, что некоторые Офисы Корректировщиков или Ассоциации используют разные методологии, когда дело касается плановых осмотров, в зависимости от их особенностей.
 
 # Original: Locked up… until there’s only one left standing… Locked… blood of my colleagues the only key to escape…
-Измаил: Заперты... пока не останется только один... Заперты... кровь коллег — единственный ключ к побегу...
+Измаил: Закрыты внутри... пока не останется лишь один... Заперты... кровь моих коллег — единственный ключ к выходу...
 
 # Original: <What kind of ‘check-up’ did she have to go through…?>
 Данте: <Через какой же "осмотр" ей пришлось пройти...?>
@@ -221,16 +221,16 @@
 Грегор: Вы... вы вообще понимаете, в какой "плановый осмотр" вы ввязываетесь...?
 
 # Original: I’m asking if you’re prepared to go through the regular check-up… no matter what happens in the process?
-Грегор: Я спрашиваю, готовы ли вы пройти через плановый осмотр... несмотря ни на что?
+Грегор: Я спрашиваю, готовы ли вы пройти через плановый осмотр... независимо от того, что произойдет в процессе?
 
 # Original: Are you prepared to endure through… through everything that…
 Грегор: Готовы ли вы выдержать... выдержать всё, что...
 
 # Original: What’s wrong with this bloke, now? Mate’s lookin’ all pale.
-Хитклиф: Что с этим типом такое? Весь побледнел.
+Хитклиф: Что с этим типом такое? Приятель весь побледнел.
 
 # Original: Ehh, I don’t understand why everyone’s making such a big deal out of this. I don’t think it’s that bad.
-Синклер: Эээ, я не понимаю, почему все делают из этого такую большую проблему. По-моему, это не так уж и страшно.
+Синклер: Эмм, я не понимаю, почему все делают из этого такую большую проблему. По-моему, это не так уж и страшно.
 
 # Original: I think we used to have annual health check-ups back in school, too.
 Синклер: Кажется, у нас в школе тоже были ежегодные медицинские осмотры.
@@ -248,13 +248,13 @@
 Отис: Неужели нужно спрашивать? Полное знание и анализ состояния каждого солдата — это необходимые данные, которые должны быть под рукой у офицеров.
 
 # Original: Uh... What soldiers? I was talking about my school...
-Синклер: Эм... Какие солдаты? Я говорю про свою школу...
+Синклер: Эм... Какие солдаты? Я вообще говорил про свою школу...
 
 # Original: Right, so that don’t explain shite about why you <i>need</i> to know that, does it?!
 Хитклиф: Так это ни хрена не объясняет, <i>зачем</i> им это нужно знать, верно?!
 
 # Original: Why’d they find it necessary to spray people with those stinkin’ chemicals just to see if someone's got lice in their clothes?!
-Хитклиф: Какого чёрта им понадобилось опрыскивать людей этими вонючими химикатами, чтобы проверить, нет ли у кого-то вшей в одежде?!
+Хитклиф: Какого чёрта им понадобилось опрыскивать людей этими вонючими химикатами, чтобы проверить, нет ли у кого-то вшей в их одежде?!
 
 # Original: <He… must’ve gone through his share of rough check-ups too as a kid, I guess...>
 Данте: <Похоже... ему тоже довелось пройти через свою долю жёстких осмотров в детстве...>
@@ -275,7 +275,7 @@
 Отис: ...выбором истинного авторитета среди нас!
 
 # Original: … A ‘true’ authority?
-Рассказчик: ...Истинного авторитета?
+Рассказчик: ..."Истинного" авторитета?
 
 # Original: B-by your parlance ‘true authority’, could it be that you are questioning whom among us is our... 'leader'?
 И Сан: П-под вашими речами об "истинном авторитете", не имеете ли вы в виду вопрос о том, кто среди нас... "лидер"?
@@ -287,10 +287,10 @@
 Отис: Смиренно прошу вас не мучить себя какими-либо ненужными недоразумениями относительно моего предложения, Исполнительный Менеджер.
 
 # Original: Of course, I must preface this with the declaration that there cannot be an iota of doubt toward Executive Manager Dante's authority.
-Отис: Конечно, я должна предварить это заявлением о том, что не может быть ни малейшего сомнения в авторитете Исполнительного Менеджера Данте.
+Отис: Конечно же, я должна добавить в это заявление предисловие о том, что не может быть ни малейшего сомнения в авторитете Исполнительного Менеджера Данте.
 
 # Original: <Ohkay…>
-Данте: <Лааадно...>
+Данте: <О'кей...>
 
 # Original: But was this not always a topic of great contention among us? That which of us…
 Отис: Но разве это не всегда было предметом больших разногласий между нами? То, кто из нас...
@@ -299,22 +299,22 @@
 Отис: ...наиболее подходит для командования этим отрядом Грешников!!!
 
 # Original: Um, isn’t it Ishmael? Or maybe… Faust?
-Синклер: Эм, разве не Измаил? Или, может быть... Фауст?
+Синклер: Эм, разве это не Измаил? Или, может быть... Фауст?
 
 # Original: Hm… that’s what I thought, too.
-Хон Лу: Хм... я тоже так думал.
+Хон Лу: Хм... я тоже так подумал.
 
 # Original: This lack of cohesion is precisely why we always fail to face our enemies as a team! Always scrambling, always under-prepared, always taken by surprise…
-Отис: Именно этот недостаток сплочённости — причина того, почему мы всегда терпим неудачу в противостоянии врагам как команда! Всегда суетимся, всегда не готовы, всегда застаём врасплох...
+Отис: Именно этот недостаток сплочённости — причина того, почему мы всегда терпим неудачу в противостоянии врагам как команда! Всегда суетимся, всегда не готовы, всегда застаны врасплох...
 
 # Original: You must always be ready to drop to the ground and give five hundred push-ups whenever your superior commands you to do so! Always maintain the willingness to sacrifice your well-being and life for the sake of the glorious victory of your allies! It’s all missing! Where is your readiness for self-sacrifice?!
-Отис: Вы должны быть всегда готовы упасть на землю и отжаться пятьсот раз, когда ваш командир прикажет! Всегда поддерживать готовность пожертвовать своим благополучием и жизнью ради славной победы ваших союзников! Всего этого не хватает! Где ваша готовность к самопожертвованию?!
+Отис: Вы должны быть всегда готовы упасть на землю и отжаться пятьсот раз, когда ваш командир прикажет! Всегда поддерживать готовность пожертвовать своим благополучием и жизнью ради славной победы ваших союзников! Этого всего не хватает! Где ваша готовность к самопожертвованию?!
 
 # Original: No one’s arguing with you, Outis. Who are you even talking to…?
 Измаил: Никто с тобой не спорит, Отис. С кем ты вообще разговариваешь...?
 
 # Original: Aha. So, to summarize, the ‘regular check-up’ entails putting us all in a small room and making us fight to the last Sinner standing?
-Хон Лу: Ага. Итак, если подытожить, "плановый осмотр" подразумевает, что нас всех запрут в маленькой комнате и заставят драться до последнего оставшегося Грешника?
+Хон Лу: Ага. Итак, если подытожить, "плановый осмотр" подразумевает, что нас всех запрут в маленькой комнате и заставят сражаться до последнего оставшегося Грешника?
 
 # Original: Silence fell upon us at Hong Lu’s succinct summary.
 Рассказчик: После краткого резюме Хон Лу воцарилась тишина.
@@ -323,13 +323,13 @@
 Рёшу: Королевская битва.
 
 # Original: I’ve been looking forward to this.
-Рёшу: Я этого ждала.
+Рёшу: Я с нетерпением этого ждала.
 
 # Original: … Fuck it. I’ll give you lot one hell of a fight. My fists used to be bloody infamous in the Backstreets—
-Хитклиф: ...Да пошло оно. Я устрою вам всем адскую драку. Мои кулаки были чертовски известны в Подворотнях—
+Хитклиф: ...Похуй. Я устрою вам всем адскую драку. Мои кулаки были чертовски известны в Подворотнях—
 
 # Original: … Fine. So that's how we’re doing this, huh? I’m ready to roll.
-Измаил: ...Ладно. Значит, так мы это делаем, да? Я готова.
+Измаил: ...Ладно. Так вот как мы это сделаем, да? Я готова.
 
 # Original: <Guys, this isn’t—>
 Данте: <Ребята, это не—>
@@ -341,7 +341,7 @@
 Фауст: …….
 
 # Original: The battle ro—um. Excuse me. The regular check-up takes place at...
-Фауст: Королевск— кхм. Прошу прощения. Плановый осмотр проводится в...
+Фауст: Королевск— кхм. Прошу прощения. Плановый осмотр будет проводится в...
 
 # Original: The Sinners seemed to be under some serious misunderstanding about what the regular check-up entailed, but Faust had obviously long given up on correcting them.
 Рассказчик: Грешники, похоже, серьёзно заблуждались относительно того, что включает в себя плановый осмотр, но Фауст явно давно оставила попытки их поправить.
@@ -350,7 +350,7 @@
 Фауст: ...штаб-квартире.
 
 # Original: The headquarters you speak of… must be the headquarters of Limbus Company?
-И Сан: Штаб-квартира, о которой вы говорите... должно быть, это штаб-квартира Компании Лимбус?
+И Сан: Штаб-квартира, о которой вы говорите... должно быть, штаб-квартира Компании Лимбус?
 
 # Original: Yes.
 Фауст: Да.
@@ -371,22 +371,22 @@
 Фауст: Это...
 
 # Original: … is a secret. However, I would like to inform you that it exists in a location inaccessible via Mephistopheles.
-Фауст: ...секрет. Однако я хотела бы сообщить, что она находится в месте, недоступном для Мефистофеля.
+Фауст: ...секрет. Однако я хотела бы сообщить, что он находится в месте, недоступном для Мефистофеля.
 
 # Original: Oh come on… How are we supposed to get there if you’re not gonna tell us where it is?
-Грегор: Да ладно... Как мы туда доберёмся, если вы не скажете, где это?
+Грегор: Да ладно... Как мы туда доберёмся, если вы даже не скажете, где он?
 
 # Original: Inaccessible via Mephistopheles... You're not about to suggest that we board the WARP trains again, are you?
-Отис: Недоступно для Мефистофеля... Вы же не собираетесь предложить нам снова сесть на WARP поезда?
+Отис: Недоступен для Мефистофеля... Вы же не собираетесь предложить нам снова сесть на ВАРП поезда?
 
 # Original: Fie, I shan't ever board the WARP trains again…
-Дон Кихот: Нет, я более не сяду на WARP поезда...
+Дон Кихот: Нет, я более не сяду на ВАРП поезда...
 
 # Original: Indeed. We will not be boarding a WARP train for this journey.
-Фауст: Действительно. Мы не будем садиться на WARP поезд для этого путешествия.
+Фауст: Действительно. Мы не будем садиться на ВАРП поезд для этого путешествия.
 
 # Original: Hmm, so are we… taking the Backdoors or something?
-Измаил: Хмм, так мы что... воспользуемся Чёрными Ходами?
+Измаил: Хмм, так мы что... воспользуемся Задними Дверями или что?
 
 # Original: Yeah, good point. Let’s take them doors instead.
 Хитклиф: Да, хорошая мысль. Давайте лучше через эти двери.
@@ -398,10 +398,10 @@
 И Сан: Однако, в отсутствие достаточной информации о каждой двери, пункт назначения может содержать элемент случайности...
 
 # Original: … or, due to the variable nature of its activation period, the resultant destination may not reflect our intended end-coordinates...
-И Сан: ...или, в силу переменчивой природы периода её активации, результирующий пункт назначения может не отражать наши намеченные конечные координаты...
+И Сан: ...или, в силу переменчивой природы периода её активации, окончательный пункт назначения может не отражать наши намеченные конечные координаты...
 
 # Original: ... or, an unexpected closure mid-passage through the frame may behoove us to bid the company our last farewells and embark on an untimely journey of no return.
-И Сан: ...или неожиданное закрытие в середине прохода через проём может вынудить нас попрощаться с компанией и отправиться в несвоевременное путешествие без возврата.
+И Сан: ...или неожиданное закрытие посреди прохода через проём может вынудить нас попрощаться с компанией и отправиться в несвоевременное путешествие с точкой невозврата.
 
 # Original: Uh, are you sure this is a sound suggestion?
 Синклер: Эм, вы уверены, что это разумное предложение?
@@ -422,7 +422,7 @@
 Отис: Дополнительные исследования? Вы намекаете на то, что внесли модификации в Заднюю Дверь?
 
 # Original: A close assessment. However, it would be more accurate to say that the Backdoor was merely used as a reference.
-Фауст: Близкая оценка. Однако было бы точнее сказать, что Задняя Дверь была использована лишь как референс.
+Фауст: Близкое предположение. Однако было бы точнее сказать, что Задняя Дверь была использована лишь как референс.
 
 # Original: <How did you even make the time for research? Weren’t you doing everything with us the whole time?>
 Данте: <Как ты вообще нашла время для исследований? Разве ты не делала всё вместе с нами всё это время?>
@@ -431,7 +431,7 @@
 Фауст: LCA и Фауст установили множественные коммуникации с одной определённой компанией-претендентом на статус Крыла во время свободных часов между нашими путешествиями для получения множественного сотрудничества в отношении стабилизации Задней Двери.
 
 # Original: A new Wing…? Are they looking to take over L Corp.’s vacancy or something?
-Грегор: Новое Крыло...? Они что, хотят занять место Корпорации L или что-то в этом роде?
+Грегор: Новое Крыло...? Они что, хотят занять пустующее место Корпорации L или что-то в этом роде?
 
 # Original: Quite sharp, Gregor. But the direction of your intuition could be improved.
 Фауст: Довольно проницательно, Грегор. Но направление твоей интуиции можно улучшить.
@@ -479,13 +479,13 @@
 Фауст: Наши исследовательские усилия, однако, были весьма эффективны и успешны. Её механизмы схожи с механизмами Задней Двери, но она устраняет коридор, вместо этого устанавливая прямое соединение от одной двери к другой. "Портал", если угодно.
 
 # Original: Oh, so you resolved all the aforementioned side effects, then?
-Грегор: О, так вы решили все вышеупомянутые побочные эффекты?
+Грегор: О, так вы избавились от всех вышеупомянутых побочных эффектов?
 
 # Original: ... Not quite. Similar difficulties to the aforementioned cases were observed. Sometimes the accuracy of the target destination coordinates were lacking. Or, in other cases, the activation period would be cut short, causing the door to shut prematurely and amputate the subject as they were traversing between doors.
 Фауст: ...Не совсем. Наблюдались схожие трудности с вышеупомянутыми случаями. Иногда точность координат целевого пункта назначения была недостаточной. Или, в других случаях, период активации прерывался, вызывая преждевременное закрытие двери и ампутацию субъекта во время прохождения между дверями.
 
 # Original: There has been much progress in the stabilization efforts, however, minimizing pentasection incidents. Most recent incidents have been limited to bisections.
-Фауст: Однако был достигнут значительный прогресс в стабилизации, минимизируя инциденты с рассечением на пять частей. Последние инциденты ограничивались рассечением на две части.
+Фауст: Однако был достигнут значительный прогресс в стабилизации, минимизируя инциденты с рассечением на пять частей. Последние инциденты ограничивались лишь рассечениями на две части.
 
 # Original: Bisection certainly is an improvement over… pentasection…
 И Сан: Рассечение на две части определённо является улучшением по сравнению с... рассечением на пять частей...
@@ -494,10 +494,10 @@
 Данте: <По-моему, они оба звучат одинаково ужасно...>
 
 # Original: Sob… I would not behold mine own left and right shoes so cruelly sundered, forced to be so far apart upon our coming to the headquarters…!
-Дон Кихот: Плак... Не желаю зреть свои левый и правый башмаки столь жестоко разлучёнными, вынужденными быть столь далеко друг от друга по прибытии нашем в штаб-квартиру...!
+Дон Кихот: Хнык... Не желаю зреть свои левый и правый башмаки столь жестоко разлучёнными, вынужденными быть столь далеко друг от друга по прибытии нашем в штаб-квартиру...!
 
 # Original: Well, well.
-Вергилий: Что ж, что ж.
+Вергилий: Так, так.
 
 # Original: All this idle chatter of unnecessary concerns tells me that your bus life may have been too uneventful lately.
 Вергилий: Вся эта праздная болтовня о ненужных заботах говорит мне, что ваша жизнь в автобусе в последнее время была слишком спокойной.
@@ -506,16 +506,16 @@
 Отис: Кхм...
 
 # Original: Hm. Looks like the ‘research’ arrived while you were wasting time.
-Вергилий: Хм. Похоже, "исследовательский проект" прибыл, пока вы тратили время.
+Вергилий: Хм. Похоже, "исследовательский проект" уже прибыл, пока вы тут тратили время.
 
 # Original: I saw a large and unfamiliar vehicle through the window.
 Рассказчик: Я увидел большое и незнакомое транспортное средство через окно.
 
 # Original: Is that the vehicle...? It's got no windows, though?
-Родион: Это тот самый транспорт...? Правда, без окон.
+Родион: Это тот самый транспорт...? Правда, он без окон?
 
 # Original: How tiresome.
 Вергилий: Как утомительно.
 
 # Original: Now, off the bus.
-Вергилий: А теперь — выходите из автобуса.
+Вергилий: А теперь — вон из автобуса.
