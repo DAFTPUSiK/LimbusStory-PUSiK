@@ -2,16 +2,16 @@
 Рассказчик: <color=#ffef23>Ночь приближается с великой поспешностью;</color>
 
 # Original: <color=#ffef23>Yet thou shalt hew open a path, cleaving the shadows in twain,</color>
-Рассказчик: <color=#ffef23>Но ты проложишь путь, рассекая тени надвое,</color>
+Рассказчик: <color=#ffef23>Но проложишь ты путь, рассекая тени надвое,</color>
 
 # Original: <color=#ffef23>With the blessings and approval of thy family of which there is no equal,</color>
 Рассказчик: <color=#ffef23>С благословением и одобрением твоей несравненной семьи,</color>
 
 # Original: <color=#ffef23>Challenge and vanquish all things perilous,</color>
-Рассказчик: <color=#ffef23>Брось вызов и одолей все опасности,</color>
+Рассказчик: <color=#ffef23>Вызов прими и одолев все опасности,</color>
 
 # Original: <color=#ffef23>And at last—reach true happiness;</color>
-Рассказчик: <color=#ffef23>И наконец — достигни истинного счастья;</color>
+Рассказчик: <color=#ffef23>Наконец — истинное счастье обрети;</color>
 
 # Original: <color=#ffef23>Thus how indubitable,</color>
 Рассказчик: <color=#ffef23>Так сколь же несомненно,</color>
@@ -23,28 +23,28 @@
 Рассказчик: Что... также является и нашим приключением.
 
 # Original: You remember the words, right? A Fixer must maintain a head clear of corruption, speech free of deceit, and conduct guided by clemency.
-Рассказчик: Ты ведь помнишь эти слова, верно? Корректировщик должен сохранять разум, чистый от порока, речь, свободную от обмана, и поведение, направляемое милосердием.
+Рассказчик: Вы ведь помните слова? Корректировщик должен сохранять разум, чистый от порока, речь, свободную от обмана, и поведение, направляемое милосердием.
 
 # Original: Show courage in adventure, and bear pain in suffering.
 Рассказчик: Проявлять мужество в приключениях и стойкость в страданиях.
 
 # Original: And pray, forget not the mercy for the downtrodden...
-Рассказчик: И, прошу, не забывай о милосердии к угнетённым...
+Рассказчик: И, прошу, не забывайте о милосердии к угнетённым...
 
 # Original: ... and last but not least...
 Рассказчик: ... и, наконец, но не в последнюю очередь...
 
 # Original: ... Pursue your dream, even if it means wagering your life in the chase.
-Рассказчик: ... Преследуй свою мечту, даже если придётся поставить на кон свою жизнь в этой погоне.
+Рассказчик: ... Преследуйте свою мечту, даже если придётся поставить на кон свою жизнь в этой погоне.
 
 # Original: Should you ever fail to stand by even one of these tenets...
-Рассказчик: Если ты когда-нибудь нарушишь хоть один из этих принципов...
+Рассказчик: Если вы когда-нибудь нарушите хоть один из этих принципов...
 
 # Original: I’ll smack you guys upside the head myself.
-Рассказчик: Я сама надаю тебе подзатыльников.
+Рассказчик: Я самолично надаю вам подзатыльников.
 
 # Original: Steel yourself and always, always keep moving forward.
-Рассказчик: Соберись с духом и всегда, всегда двигайся вперёд.
+Рассказчик: Соберитесь же с духом, раз и навсегда, всегда двигайтесь вперёд.
 
 # Original: <color=#ffef23>Is that not...</color>
 Рассказчик: <color=#ffef23>Разве это не...</color>
@@ -77,10 +77,10 @@
 Данте: <…….>
 
 # Original: Returning to P Corp.'s WARP train Station seemed to always remind Don Quixote of our last misadventure. She'd repeated that exact same complaint a few times by now.
-Рассказчик: Возвращение на станцию WARP Поезда Корпорации P, казалось, всегда напоминало Дон Кихот о нашем последнем злоключении. Она уже несколько раз повторила эту самую жалобу.
+Рассказчик: Возвращение на ВАРП станцию Корпорации P, казалось, всегда напоминало Дон Кихот о нашем последнем злоключении. Она уже несколько раз повторила одну и ту же жалобу.
 
 # Original: Hooh...? Wherefore dost thou make an expression of such great dourness, Manager Esquire...?
-Дон Кихот: Хоо...? Отчего у тебя такое мрачное выражение лица, Сэр Менеджер...?
+Дон Кихот: Хоо...? Отчего у вас такое мрачное выражение лица, Сэр Менеджер...?
 
 # Original: <I don't even have an expression, let alone a face...>
 Данте: <У меня даже нет выражения, не говоря уже о лице...>
@@ -95,13 +95,13 @@
 Дон Кихот: То есть, мы не должны позволять силе тела быть мерилом, которым мы судим о достоинствах; посему упорствуй, пусть лишь твоё несгибаемое сердце будет инструментом, которым ты вершишь правосудие! Внемли, внемли!
 
 # Original: Ugh... Right, out with it. Who encouraged the lass this time?
-Хитклиф: Ух... Ладно, выкладывай. Кто на этот раз спровоцировал девчонку?
+Хитклиф: Ух... Ладно, выкладывай. Кто на этот раз воодушевил девчонку?
 
 # Original: Hearken unto me, Manager Esquiiiiiiiiiirrrrreeeehhhh?
-Дон Кихот: Внемли мне, Сэр Менеджеееееееррррррр?
+Дон Кихот: Внемлите мне, Сэр Менеджеееееееррррррр?
 
 # Original: Some time ago, in the freight car of the WARP train...
-Рассказчик: Некоторое время назад, в грузовом вагоне WARP поезда...
+Рассказчик: Некоторое время назад, в грузовом вагоне ВАРП поезда...
 
 # Original: …….
 Дон Кихот: …….
@@ -116,7 +116,7 @@
 Рассказчик: ... Нет. Это... какое-то потустороннее существо, которое, как я надеюсь, является Дон Кихот... глядит на меня.
 
 # Original: She opens her mouth. My instinct is screaming at me to not listen to her. But...
-Рассказчик: Она открывает рот. Мой инстинкт кричит, чтобы я не слушал её. Но...
+Рассказчик: Она открывает рот. Мои инстинкты кричат, чтобы я не слушал её. Но...
 
 # Original: …….
 Дон Кихот: …….
@@ -146,13 +146,13 @@
 Дон Кихот: Росинант, ко мне...
 
 # Original: ... I beseech you.
-Дон Кихот: ... Я умоляю тебя.
+Дон Кихот: ... Я молю тебя.
 
 # Original: I don't know if I gave her the right answer.
 Рассказчик: Я не знаю, дал ли я ей правильный ответ.
 
 # Original: Though my answer was an almost instinctual relay of a thought that manifested in my head, Don Quixote closes her eyes upon hearing my reply.
-Рассказчик: Хотя это было почти инстинктивной передачей мысли, возникшей в моей голове, услышав его, Дон Кихот закрыла глаза.
+Рассказчик: Хоть мой ответ, был инстинктивной мыслью, возникшей в моей голове, услышав его, Дон Кихот закрыла глаза.
 
 # Original: As though drifting away into a gentle, pleasant dream.
 Рассказчик: Словно уплывая в нежный, приятный сон.
@@ -161,7 +161,7 @@
 Рассказчик: И я осторожно надел на её ноги потрёпанную пару кроссовок, которую она называла Росинантом.
 
 # Original: And I make a silent wish.
-Рассказчик: И я молча загадал желание.
+Рассказчик: И я молча пожелал.
 
 # Original: Let her blood-red eyes never, ever open again.
 Рассказчик: Пусть её кроваво-красные глаза никогда, никогда больше не откроются.
@@ -176,25 +176,25 @@
 Дон Кихот: Прибы... мы прибыли?
 
 # Original: Hunnhhh... FIE!!! What devilry is this?! Whither hath the villainous Bloodfiend gone?
-Дон Кихот: Хуннххх... ФУ!!! Что за дьявольщина?! Куда подевался этот злодейский Кровожад?
+Дон Кихот: Хуннххх... ФУ!!! Что за дьявольщина?! Куда подевался этот злобный Кровожад?
 
 # Original: <Don Quixote…>
 Данте: <Дон Кихот…>
 
 # Original: ... Didst thou strike down the cur?!?!
-Дон Кихот: ... Ты сразил этого ублюдка?!?!
+Дон Кихот: ... Неужели ты сразил этого ублюдка?!?!
 
 # Original: And, back to present...
 Рассказчик: И, возвращаясь к настоящему...
 
 # Original: I kinda feel like we all missed out on something cool. Wish I was there with Faust and Dante when it all went down to see how you guys managed to kill that guy, y'know?
-Родион: У меня такое чувство, что мы все пропустили что-то крутое. Жаль, что меня не было там с Фаустом и Данте, когда всё это случилось, чтобы увидеть, как вы, ребята, смогли убить этого парня, понимаете?
+Родион: У меня такое чувство, что мы все пропустили что-то крутое. Жаль, что меня не было там с Фауст и Данте, когда всё это случилось, чтобы увидеть, как вы, ребята, смогли убить этого парня, понимаете?
 
 # Original: Let's not leave a certain someone out of the story, hmm? She was there as well, though she embarrassingly passed out like a coward in front of that Bloodfiend. The shame of Limbus company, I say.
 Отис: Давайте не будем исключать из истории одну особу, хм? Она тоже была там, хотя позорно потеряла сознание, как трусиха, перед этим Кровожадом. Позор компании Лимбус, надо сказать.
 
 # Original: S.O.L.C. Pathetic...
-Рёшу: S.O.L.C. Жалко...
+Рёшу: П.К.Л. Жалко...
 
 # Original: ... C'mon. We all passed out too, didn't we?
 Хитклиф: ... Да ладно. Мы все тоже потеряли сознание, разве нет?
@@ -227,7 +227,7 @@
 Синклер: Так... что же на самом деле произошло там?
 
 # Original: <I-I already told you guys earlier, didn't I?>
-Данте: <Я-я же уже рассказывал вам об этом раньше, разве нет?>
+Данте: <Я-я же уже ранее рассказывал вам об этом, разве нет?>
 
 # Original: What?
 Измаил: Что?
@@ -236,22 +236,22 @@
 Измаил: Ты просто замялся с "Это... ну... Понимаете..." пока мы не сменили тему. О чём ты говоришь?
 
 # Original: Executive Manager, perhaps you were in a similar state of explosive delirium to the one you experienced earlier?! I am referring to the time when your head burst into flames!
-Отис: Исполнительный Менеджер, возможно, вы находились в состоянии взрывного бреда, подобного тому, что вы испытали ранее?! Я имею в виду тот случай, когда ваша голова вспыхнула пламенем!
+Отис: Исполнительный Менеджер, возможно, вы находились в состоянии внезапного бреда, подобного тому, что вы испытали ранее?! Я имею в виду тот случай, когда ваша голова вспыхнула пламенем!
 
 # Original: <Oh, n-no, it's, uh...>
 Данте: <О, н-нет, это, эм...>
 
 # Original: Outis began glaring at me warily as though my clock—head—was about to explode at any moment.
-Рассказчик: Отис начала настороженно смотреть на меня, словно мои часы—голова—вот-вот взорвётся.
+Рассказчик: Отис начала настороженно смотреть на меня, словно моя часовая—голова—вот-вот взорвётся.
 
 # Original: <That... didn't happen.>
-Данте: <Этого... не было.>
+Данте: <Этого... не произошло.>
 
 # Original: "That didn't happen", huh...?
-Родион: "Этого не было", да...?
+Родион: "Этого не произошло", да...?
 
 # Original: Well, if ya won't talk, then~ I turn to Miss Faust, our second eyewitness! Can I get some statements from you, madam?
-Родион: Ну, раз ты не хочешь говорить, тогда~ я обращаюсь к мисс Фауст, нашему второму очевидцу! Могу я получить от вас какие-нибудь показания, мадам?
+Родион: Ну, раз ты не хочешь говорить, тогда~ я обращусь к мисс Фауст, нашему второму очевидцу! Могу я получить от вас какие-нибудь показания, мадам?
 
 # Original: Rodya asks confidently, still in the mood to play detective.
 Рассказчик: Родя уверенно спрашивает, всё ещё в настроении поиграть в детектива.
@@ -293,7 +293,7 @@
 Вергилий: Однако эта операция будет несколько...
 
 # Original: ... No, let me correct myself. This operation will be 'drastically' different from anything you have done so far. It may be one of our most... bothersome missions.
-Вергилий: ... Нет, позвольте мне поправиться. Эта операция будет "кардинально" отличаться от всего, что вы делали до сих пор. Это может быть одна из наших самых... хлопотных миссий.
+Вергилий: ... Нет, позвольте мне поправить себя. Эта операция будет "кардинально" отличаться от всего, что вы делали до сих пор. Это может быть одна из наших самых... хлопотных миссий.
 
 # Original: Well... when hasn't it been like that?
 Измаил: Ну... а когда было по-другому?
@@ -305,10 +305,10 @@
 Фауст: Похоже, интуиция Грешников с каждым днём становится всё острее.
 
 # Original: Oh... are we... actually?
-Измаил: О... мы... правда?
+Измаил: О... мы что... правда?
 
 # Original: You know what? I think I'm just going to... keep these guesses to myself from now on.
-Измаил: Знаете что? Я думаю, что отныне буду просто... держать догадки при себе.
+Измаил: Знаете что? Я думаю, что отныне буду просто... держать эти догадки при себе.
 
 # Original: It's not something that can be negotiated. Well, isn't it better to join a group three times our size rather than to oppose it?
 Вергилий: Это не то, о чём можно договориться. Ну, разве не лучше присоединиться к группе, которая в три раза больше нашей, чем противостоять ей?
@@ -329,7 +329,7 @@
 Рассказчик: Та миссия в Корпорации K была нашим первым и последним опытом "совместной операции".
 
 # Original: Eugh, I still vividly remember watching Meursault's arm flyin' off, smacking against a pillar, and squelching onto the floor...
-Родион: Эух, я до сих пор ярко помню, как рука Мерсо отлетела, ударилась о колонну и шлёпнулась на пол...
+Родион: Ух, я до сих пор ярко помню, как рука Мерсо отлетела, ударилась о колонну и шлёпнулась на пол...
 
 # Original: A more accurate recounting of the event would have included the fact that my scapula was also forcibly separated from my torso.
 Мерсо: Более точное описание события включало бы тот факт, что моя лопатка также была насильственно отделена от туловища.
@@ -347,7 +347,7 @@
 Вергилий: Вам бы не помешало помнить, что вы не единственная команда, входящая в эту операцию с такими высокомерными мыслями.
 
 # Original: This contract is, after all, an Open Contract posted by the Hana Association, the Association overlooking the operations of Fixers—
-Вергилий: Этот контракт, в конце концов, является Открытым Контрактом, размещённым Ассоциацией Хана, Ассоциацией, курирующей деятельность Корректировщиков—
+Вергилий: Эта миссия, в конце концов, является Открытым Контрактом, размещённым Ассоциацией Хана, Ассоциацией, курирующей деятельность Корректировщиков—
 
 # Original: Vergilius stopped himself, noticing an ominous aura from one of the Sinners.
 Рассказчик: Вергилий остановился, заметив зловещую ауру от одного из Грешников.
@@ -368,7 +368,7 @@
 Дон Кихот: Уоох! Оти—ммпф! Ммпф!
 
 # Original: ... Anyway. This means that our colleagues joining this operation won't be any ragtag bands of Fixers from some alleyway Office no one's ever heard of. It is very likely that Fixers from somewhat established Associations will be joining us.
-Вергилий: ... В любом случае. Это означает, что наши коллеги, присоединяющиеся к этой операции, не будут какой-то разношёрстной бандой Корректировщиков из какого-нибудь никому не известного Офиса. Весьма вероятно, что к нам присоединятся Корректировщики из довольно признанных Ассоциаций.
+Вергилий: ... В любом случае. Это означает, что наши коллеги, присоединяющиеся к этой операции, не будут какой-то разношёрстной бандой Корректировщиков из какого-нибудь никому неизвестного Офиса. Весьма вероятно, что к нам присоединятся Корректировщики из довольно признанных Ассоциаций.
 
 # Original: MMMPH!! MMH! MMH! MMH! MMH!
 Дон Кихот: МММПФ!! ММХ! ММХ! ММХ! ММХ!
@@ -377,7 +377,7 @@
 Отис: Ты...! Прекрати шевелить губами!
 
 # Original: I am so glad that Outis was here to stop Don Quixote from exploding into joy.
-Рассказчик: Я так рад, что Отис была здесь, чтобы остановить Дон Кихот от взрыва радости.
+Рассказчик: Я так рад, что Отис была здесь, чтобы не дать Дон Кихот взорваться от радости.
 
 # Original: Because if she hadn't, we'd be drawing the attention of every single person in a sizable radius around us.
 Рассказчик: Потому что если бы она этого не сделала, мы бы привлекли внимание каждого человека в значительном радиусе вокруг нас.
