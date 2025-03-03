@@ -8,7 +8,7 @@
 Цезара: Всем привет, рада познакомиться. Я Цезара, главный менеджер Архивного отдела Корпорации P.
 
 # Original: Archival Department? So you are... bookkeepers, then?
-Отис: Архивный отдел? Так вы... хранители записей, получается?
+Отис: Архивный отдел? Так вы... бухгалтеры, получается?
 
 # Original: In a manner of speaking, yes. It is a rather significant department within P Corp., regardless of how other Wings treat their own archivists.
 Цезара: В некотором смысле, да. Это довольно значимый отдел внутри Корпорации P, независимо от того, как другие Крылья относятся к своим архивистам.
@@ -53,7 +53,7 @@
 Вергилий: И учитывая, что вы приложили все усилия, чтобы лично передать этот конкретный контракт в наши руки...
 
 # Original: ... this isn't a simple Urban Nightmare eradication contract, is it?
-Вергилий: ... это не простая ликцидация Городского Кошмара, не так ли?
+Вергилий: ... это не простая ликвидация Городского Кошмара, не так ли?
 
 # Original: I sense that your expectations of us extend beyond simply defeating it.
 Вергилий: Я чувствую, что ваши ожидания от нас выходят за рамки обычной победы над ним.
@@ -92,7 +92,7 @@
 Рассказчик: Цезара молча уставилась на Измаил, когда та начала быстро выпаливать свой список вопросов.
 
 # Original: Oh, uh... ah, right. Forgot to explain. So Abnormalities and Distortions are the kind of 'monsters' that may look similar at first glance—
-Измаил: О, э... ах, точно. Забыла объяснить. Так вот, Аномалии и Искажения – это виды "монстров", которые на первый взгляд могут выглядеть похоже—
+Измаил: О, эм... ах, точно. Забыла объяснить. Так вот, Аномалии и Искажения – это такие "монстры", которые на первый взгляд могут выглядеть похоже—
 
 # Original: ... If only our problem was just another monster to deal with.
 Цезара: ... Если бы только наша проблема была просто ещё одним монстром, с которым нужно разобраться.
@@ -143,7 +143,7 @@
 Цезара: Большинство гостей, посетивших Ла-Манчалэнд, который таинственным образом материализовался два месяца назад в Подворотнях Корпорации P... всё ещё заперты внутри.
 
 # Original: They have gone 'missing', thou sayest? Yet how can that be? 'Tis against the nature of amusement parks to be so full of horror, not joy...!
-Дон Кихот: Ты рекла, что они "пропали без вести"? Однако как такое может быть? Сие противно природе парков развлечений быть столь полными ужаса, а не радости...!
+Дон Кихот: Ты прорекла, что они "пропали без вести"? Однако как такое может быть? Сие противно природе парков развлечений быть столь полными ужаса, а не радости...!
 
 # Original: I simply did not have enough manpower under my authority to deal with this. It was designated an Urban Plague three days after its first appearance, and now it's been escalated to an Urban Nightmare.
 Цезара: У меня просто не было достаточно людей в моём распоряжении, чтобы с этим справиться. Через три дня после первого появления, его обозначили как Городскую Чуму, а теперь ситуация обострилась до Городского Кошмара.
@@ -194,7 +194,7 @@
 Цезара: Итак, вскоре вы отправитесь в Ла-Манчалэнд вместе с другими Корректировщиками.
 
 # Original: A piece of advice, if you will; do not let the other Fixers know that you are here to find the Golden Bough.
-Цезара: Вот вам совет, если позволите; не дайте другим Корректировщикам узнать, что вы ищите Золотую Ветвь.
+Цезара: Вот вам совет, если позволите; не дайте другим Корректировщикам узнать, что вы ищете Золотую Ветвь.
 
 # Original: If they were to somehow find out that there is this mysterious artifact called the 'Golden Bough' hidden somewhere within that zone...
 Цезара: Если они каким-то образом узнают, что где-то в этой зоне спрятан этот загадочный артефакт под названием "Золотая Ветвь"...
@@ -269,7 +269,7 @@
 Данте: <…….>
 
 # Original: ... I suppose it doesn't matter whether we accept your proposition or not. You must have already reached an agreement with the top brass of our company.
-Отис: ... Полагаю, не имеет значения, примем мы ваше предложение или нет. Вы уже, должно быть, достигли соглашения с высшим руководством нашей компании.
+Отис: ... Полагаю, не имеет значения, примем мы ваше предложение или нет. Должно быть, вы уже достигли соглашения с высшим руководством нашей компании.
 
 # Original: ... Right. But what if, after kickin' the phenomenon's arse, we don't bother bringin' in the bloke who made that bizarre amusement park?
 Хитклиф: ... Верно. Но что, если после того, как мы надерём задницу этому явлению, мы не станем утруждать себя поимкой чувака, создавшего этот причудливый парк развлечений?
@@ -311,16 +311,16 @@
 Измаил: ... Поняла. Вы хотите, чтобы эта миссия была выполнена до того, как явление привлечёт слишком много внимания.
 
 # Original: Oh, you're cutting right through the fluff again!
-Цезара: О, и снова вы зрите в корень!
+Цезара: О, и снова вы зрите прямо в корень!
 
 # Original: Anyways, you got that right. Isn't it so fortunate how we both seem to be under the impression that what each of us is looking for won't be of much use to the other? For now, at least?
-Цезара: В любом случае, вы правильно поняли. Разве не так удачно, что мы, кажется, находимся под впечатлением, что то, что каждый из нас ищет, не будет особо полезно другому? По крайней мере, на данный момент?
+Цезара: В любом случае, вы правильно поняли. Разве это не удача, что мы, кажется, находимся под впечатлением того, что каждый из нас ищет, то что не будет особо полезно другому? По крайней мере, на данный момент?
 
 # Original: I suppose that is why you're keeping the nature of those Golden Boughs discreet, and that is why we're keeping it on the down low about what created La Manchaland.
 Цезара: Полагаю, именно поэтому вы держите в секрете природу этих Золотых Ветвей, и именно поэтому мы держим в тайне информацию о том, что создало Ла-Манчалэнд.
 
 # Original: Agreed. The more eyes observe an info, the less value it has. Like run-of-the-mill mass-produced products.
-Рёшу: Согласна. Чем больше глаз наблюдают за информацией, тем меньше её ценность. Как массовая продукция.
+Рёшу: Согласна. Чем больше глаз наблюдают за информацией, тем меньше её ценность. Как обычные продукты массового производства.
 
 # Original: Haah... of course it's all work talk. I got excited for a sec thinkin' we were about to get some nice souvenirs.
 Родион: Хаах... конечно, всё сводится к рабочим разговорам. А я на секунду воодушевилась, подумав, что мы собираемся получить какие-нибудь хорошие сувениры.
@@ -329,7 +329,7 @@
 Цезара: У нас очень высокие ожидания от каждого из вас.
 
 # Original: After all, you're all willing to die for this, aren't you?
-Цезара: В конце концов, вы все готовы умереть за это, не так ли?
+Цезара: В конце концов, вы все готовы умереть ради этого, не так ли?
 
 # Original: <She keeps saying that...>
 Данте: <Она продолжает это повторять...>
@@ -347,7 +347,7 @@
 Рассказчик: Я привык принимать это как неизбежность, но...
 
 # Original: ... I do know that this is... probably not the right way.
-Рассказчик: ... я знаю, что это... вероятно, не правильный путь.
+Рассказчик: ... я знаю, что это... вероятно, неправильный путь.
 
 # Original: AHEM!
 Дон Кихот: КХЕМ!
@@ -398,13 +398,13 @@
 Дон Кихот: Но отчего?! Разве путешествие в одиночестве не будет столь унылым, нет?
 
 # Original: Isn't it obvious? If we show up at the Fixers' gathering with the Head Manager of a whole department in tow, we'll attract more eyes than superstars on a red carpet.
-Измаил: Разве не очевидно? Если мы появимся на собрании Корректировщиков с главным менеджером целого отдела в качестве сопровождения, мы привлечём больше взглядов, чем суперзвёзды на красной дорожке.
+Измаил: Разве не очевидно? Если мы появимся на собрании Корректировщиков с главным менеджером целого отдела в качестве сопровождающего, мы привлечём больше взглядов, чем суперзвёзды на красной дорожке.
 
 # Original: Yep. I'm sure they'll sniff out our connection to P Corp. at a glance...
 Родион: Ага. Уверена, они учуют нашу связь с Корпорацией P с первого взгляда...
 
 # Original: Yet... are not stars of... super variety a good goal to strive for?
-Дон Кихот: Однако... разве звёзды... супер-разновидности не являются достойной целью, к которой стоит стремиться?
+Дон Кихот: Однако... разве супер... звёзды не являются достойной целью, к которой стоит стремиться?
 
 # Original: Don Quixote... this might come as news to you, but sometimes words can mean more than one thing at a time...
 Грегор: Дон Кихот... это может стать для тебя новостью, но иногда слова могут означать больше одной вещи одновременно...
@@ -413,7 +413,7 @@
 Цезара: Вот пропуск, который позволит вам свободно перемещаться между Подворотнями и Гнездом Корпорации P. Обратите внимание, что это рабочая виза, поэтому она не будет действовать вечно.
 
 # Original: Hmm... If they can just hand out something so important this easily, I can't imagine why her department won't be able to handle it themselves...
-Синклер: Хмм... Если они могут так легко раздавать нечто столь важное, я не могу представить, почему её отдел не сможет справиться с этим самостоятельно...
+Синклер: Хмм... Если они могут так легко раздавать нечто столь важное, я не могу представить, почему её отдел не может справиться с этим самостоятельно...
 
 # Original: Sinclair was still quietly suspicious, but that small doubt was practically buried in the brief commotion that followed as Sinners gathered in front of Cesara to receive their visa.
 Рассказчик: Синклер всё ещё тихо подозревал что-то, но это маленькое сомнение практически затерялось в кратком волнении, которое последовало, когда Грешники собрались перед Цезарой, чтобы получить свои визы.
